@@ -1,2 +1,2 @@
-# gv-portfolio-scrapper
-Google Venture Portfolio Scrapper
+# gv-portfolio-scraper
+Google Venture Portfolio Scraper
